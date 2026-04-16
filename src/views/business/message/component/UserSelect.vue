@@ -19,8 +19,9 @@ export default {
     multiple: {
       type: Boolean,
     }
-    
+
   },
+  
   data(){
     return {
       operate:[],
