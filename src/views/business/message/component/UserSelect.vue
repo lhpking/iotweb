@@ -19,6 +19,7 @@ export default {
     multiple: {
       type: Boolean,
     }
+    
   },
   data(){
     return {
